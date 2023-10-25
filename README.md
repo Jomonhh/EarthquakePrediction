@@ -1,1 +1,1 @@
-# EarthquakePrediction 1
+# Earthquake Prediction Model Using Python
